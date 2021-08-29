@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>Edit title tag</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="f9qW23PvZI1ApdrpIVM5HPDikLReEr_8FjBj9m89xmA" />	
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/line-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/theme.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+        <!--[if gte IE 9]>
+        	<link rel="stylesheet" type="text/css" href="css/ie9.css" />
+		<![endif]-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
+        <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+    	<div class="loader">
+    		<div class="spinner">
+			  <div class="double-bounce1"></div>
+			  <div class="double-bounce2"></div>
+			</div>
+    	</div>
+				
+		<div class="nav-container"><nav class="top-bar overlay-bar offscreen-menu">
+				<div class="container">
+				
+					
+					
+					<div class="row">
+						<div class="col-sm-12">
+							<hr class="no-margin">
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="offscreen-container">
+					<img alt="logo" class="logo logo-wide" src="img/logo-light.png">
+					<ul class="menu">
+						<li><a href="http://kharis.org.uk/" target="_blank">Kharis</a></li>
+						<li><a href="#">giving</a></li>
+						<li><a href="http://kharis.org.uk/event/friday-prayer-6/2015-05-01/" target="_blank">events</a></li>
+						<li><a href="#">pastor david</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>	
+					<ul class="social-icons">
+						<li>
+							<a href="#">
+								<i class="icon social_twitter"></i>
+							</a>
+						</li>
+				
+						<li>
+							<a href="#">
+								<i class="icon social_facebook"></i>
+							</a>
+						</li>
+				
+						<li>
+							<a href="https://instagram.com/kharischurch/" target="_blank">
+								<i class="icon social_instagram"></i>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+		
+		<div class="main-container">
+			<header class="fullscreen-element no-pad centered-text">
+				<div class="background-image-holder parallax-background overlay">
+					<img class="background-image" alt="Background Image" src="img/hero8.jpg">
+				</div>
+				
+				<div class="container align-vertical">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<span class="text-white alt-font">ANTWI.XYZ<br></span>
+							<h1 class="text-white">Are you called ANTWI?<br>Get a free email address bearing your LAST NAME&nbsp;<br></h1>
+							<p class="lead text-white">you could have kofi@antwi.xyz</p>
+							
+							<a href="#contact" class="btn btn-primary btn-filled">GET YOURS NOW</a>
+						</div>
+					</div>
+				</div>
+			</header>
+			
+			<header class="page-header">
+				<div class="background-image-holder parallax-background">
+					<img class="background-image" alt="Background Image" src="img/hero6.jpg">
+				</div>
+				
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<span class="text-white alt-font">brought to you by</span>
+							<h1 class="text-white"><a href="http://kawisoft.com">KawiSoft Technologies</a></h1>
+							<p class="text-white lead">Building technologies that inspire creativity</p>
+						</div>
+					</div>
+				</div>
+			</header>
+			
+			<section id="contact" class="contact-photo">
+				
+				<div class="background-image-holder">
+					<img class="background-image" alt="Background Image" src="img/project2.jpg">
+				</div>
+				
+				<div  class="container">
+					
+					
+					<div class="photo-form-wrapper clearfix">
+						<form class="email-form">
+							<div class="row">
+								
+							
+								<div class="col-md-offset-3 col-sm-8 col-sm-offset-2 text-center col-md-6">
+							<h3 class="text-white">Request your custom email now</h3> <br />
+						</div><div class="col-md-3 col-sm-4 col-sm-offset-2 col-md-offset-3">
+									<input class="form-name validate-required" type="text" placeholder="Your Full Name" name="name" autocomplete="off">
+								</div><div class="col-md-3 col-sm-4">
+									<input class="form-email validate-required validate-email" type="text" placeholder="Your Current Email" name="email">
+								</div>
+							</div>
+						
+							<div class="row">
+								<div class="col-md-6 col-sm-8 col-sm-offset-2 col-md-offset-3 text-center">
+									<input class="form-message validate-required" type="text" name="message" placeholder="Your New Email (eg: kofi@antwi.xyz)">
+									<input type="submit" class="send-form btn-filled" value="Create my email">
+									<div class="form-success">
+										<span class="text-white">Message sent - Thanks for your enquiry</span>
+									</div>
+									<div class="form-error">
+										<span class="text-white">Please complete all fields correctly</span>
+									</div>
+								</div>	
+							</div>
+						</form>
+						
+					</div>
+					
+					<div class="row">
+							<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+								<ul class="social-icons">
+									<li>
+										<a href="#">
+											<i class="icon social_twitter"></i>
+										</a>
+									</li>
+								
+									<li>
+										<a href="#">
+											<i class="icon social_facebook"></i>
+										</a>
+									</li>
+								
+									<li>
+										<a href="#">
+											<i class="icon social_instagram"></i>
+										</a>
+									</li>
+								
+									<li>
+										<a href="#">
+											<i class="icon social_dribbble"></i>
+										</a>
+									</li>
+								
+									<li>
+										<a href="#">
+											<i class="icon social_tumblr"></i>
+										</a>
+									</li>
+								
+									<li>
+										<a href="#">
+											<i class="icon social_pinterest"></i>
+										</a>
+									</li>
+								</ul><br>
+								<span class="sub">© Copright 2015 |antwiXYZ&nbsp;<a href="#">Medium Rare</a> - All Rights Reserved</span>
+							</div>
+						</div>
+		
+				</div>
+			
+			</section>
+		</div>
+		
+		<div class="footer-container">
+		</div>
+				
+		<script src="https://www.youtube.com/iframe_api"></script>
+		<script src="js/jquery.min.js"></script>
+        <script src="js/jquery.plugin.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/skrollr.min.js"></script>
+        <script src="js/spectragram.min.js"></script>
+        <script src="js/scrollReveal.min.js"></script>
+        <script src="js/isotope.min.js"></script>
+        <script src="js/twitterFetcher_v10_min.js"></script>
+        <script src="js/lightbox.min.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
+				

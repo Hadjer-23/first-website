@@ -1,0 +1,133 @@
+/*Start Golbale Rules*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+   
+}
+ul {
+    list-style: none;
+}
+.container {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right:  20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+
+}
+/*End Golbale Rules*/
+/*Start Header*/
+header.container {
+    display: flex;
+    justify-content: space-between;
+}
+.container i {
+ color: black;
+ text-align: right;
+  display: block;
+ padding: 5px;
+ transition: 2s;
+}
+    
+    
+/*End Header*/
+/*Start Leanding Section*/
+
+header{
+    background-image: url(../img/wood-office-table-with-blank-screen-laptop-notebook-hot-coffee-cup-retro-black-clock-white-cement-background_45281-400.jpg);
+    background-size: cover;
+   height: 800px;
+
+}
+.leanding{
+    position: absolute;
+    left: 10%;
+    font-size: 25px;
+    font-weight: bold;
+}
+h1{
+   color: #10cab7;
+ text-align: center;
+}
+
+   
+/*Start Leanding Section*/
+/*End Header*/
+
+/*Start Features*/
+.features{
+ 
+   background-color: rgb(236, 233, 233);
+}
+.features .container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
+    grid-gap: 50px;
+    text-align: center;
+  padding: 50px;  
+}
+.features .feat h3 {
+
+   font-weight: 800px;
+   margin: 30px 0;
+   color:#10cab7;
+}
+.features .feat p {
+    text-align: center;
+    color: #333;
+    font-size: 17px;
+}
+.features .feat i {
+    font-size: 30px;
+}
+/*End Features*/
+/*Start Services*/
+.special-heading{
+font-size: 100px;
+color: #777;
+text-align: center;
+font-weight: 800px;
+    letter-spacing: -3px;
+    margin: 0px;
+}
+.special-heading + p{
+  text-align: center;
+  margin: 0px;
+  font-size: 20px;
+}
+.services-content {
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    padding: 60px;
+  margin-bottom: 40px;
+  grid-gap: 30px;
+
+}
+.ser {
+    text-align: center;
+    padding: 20px;
+    margin-left:30px ;
+    margin-right: 30px;
+}
+.ser h3{
+    color: #10cab7;
+    margin: 0 0 20;
+}
+.ser p{
+    color: #333;
+}
+.ser i{
+    font-size: 30px;
+}
+
+/*End Services*/
+
