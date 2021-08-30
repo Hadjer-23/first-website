@@ -8,12 +8,9 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    font-family: 'Open Sans', sans-serif;
-   
+    font-family: 'Open Sans', sans-serif;  
 }
-ul {
-    list-style: none;
-}
+
 .container {
     padding-top: 20px;
     padding-left: 20px;
@@ -21,7 +18,6 @@ ul {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0px;
-
 }
 /*End Golbale Rules*/
 /*Start Header*/
@@ -36,11 +32,8 @@ header.container {
  padding: 5px;
  transition: 2s;
 }
-    
-    
 /*End Header*/
 /*Start Leanding Section*/
-
 header{
     background-image: url(../img/wood-office-table-with-blank-screen-laptop-notebook-hot-coffee-cup-retro-black-clock-white-cement-background_45281-400.jpg);
     background-size: cover;
@@ -56,12 +49,8 @@ header{
 h1{
    color: #10cab7;
  text-align: center;
-}
-
-   
-/*Start Leanding Section*/
-/*End Header*/
-
+}  
+/*End Leanding Section*/
 /*Start Features*/
 .features{
  
